@@ -151,6 +151,6 @@ Si tienes preguntas o encuentras problemas, revisa:
 
 ## 👥 Autor
 
-Desarrollado POR Jhosep Michael para optimizar operaciones de bares y restaurantes.
+Desarrollado POR Jhosep Michael para optimizar operaciones.
 
 ---
