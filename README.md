@@ -148,3 +148,9 @@ Si tienes preguntas o encuentras problemas, revisa:
 1. Los logs en la terminal donde ejecutaste `npm run dev`
 2. La consola del navegador (F12 > Console)
 3. Los logs de Supabase (Panel > Logs)
+
+## 👥 Autor
+
+Desarrollado POR Jhosep Michael para optimizar operaciones de bares y restaurantes.
+
+---
