@@ -149,8 +149,8 @@ Si tienes preguntas o encuentras problemas, revisa:
 2. La consola del navegador (F12 > Console)
 3. Los logs de Supabase (Panel > Logs)
 
-## 👥 Autor
-
-Desarrollado POR Jhosep Michael para optimizar operaciones.
+### Autor
+**Jhosep Michael Yachi García (Jhosep)**  
+Estudiante de 9no ciclo de Ingeniería de Sistemas e Informática — UTP
 
 ---
